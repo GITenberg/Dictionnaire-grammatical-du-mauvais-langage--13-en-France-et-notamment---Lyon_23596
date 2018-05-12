@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25932
     wikipedia: http://fr.wikipedia.org/wiki/%C3%89tienne_Molard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23596#Dictionnaire-grammatical-du-mauvais-langage--13-en-France-et-notamment---Lyon
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2007-11-23'
 gutenberg_type: Text
